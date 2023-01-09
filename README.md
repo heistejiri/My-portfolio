@@ -1,36 +1,44 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# vCard - Personal portfolio
 
-<a href="https://devashu-devfolio.netlify.app/"><h2>**Visit Now🚀**</h2></a>
-![Web 1920 – 1](https://user-images.githubusercontent.com/75971776/163691859-22f06eb0-f2b6-4bc5-be01-072e1821c602.png)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
+## Demo
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+## Prerequisites
 
-## 📌 Sneak Peek of Main Page 🙈 :
+Before you begin, ensure you have met the following requirements:
 
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+## Installing vCard
 
-<h2>📬 Contact</h2>
+To install **vCard**, follow these steps:
 
+Linux and macOS:
 
-If you want to contact me, you can reach me through below handles.
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ashutosh-mohanty-3464a6204" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
-              <a href="https://github.com/Ashutosh102" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
-              <a href="mailto:ashutoshmohanty3815@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
-              <a href="https://twitter.com/Ashutos56695774?s=09" class="fab fa-twitter" aria-label="Twitter" target="_blank"></a>
-              <a href="https://t.me/Ashutosh3815" class="fab fa-telegram-plane" aria-label="Telegram" target="_blank"></a>
+Windows:
 
-© 2022 DevAshu
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
+## Contact
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+This project is **free to use** and does not contains any license.
