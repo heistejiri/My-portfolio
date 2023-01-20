@@ -1,5 +1,7 @@
 ## ⭐ My Personal PortFolio ⭐
 
+Feel free to contribute 
+
 ⭕ **This Site is Fully Responsive**
 <br>
 <br>
