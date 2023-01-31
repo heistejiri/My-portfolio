@@ -1,7 +1,7 @@
 ## ⭐ My Personal PortFolio ⭐
 
 
-⭕ **This Site is very Fully Responsive**
+⭕ **This Site is Fully Responsive**
 <br>
 <br>
 
